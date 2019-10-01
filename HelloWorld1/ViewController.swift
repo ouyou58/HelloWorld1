@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        let name = "wangyang"
+        let age = 37
+        let sex = false
         
         
         
