@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         let age = 37
         let sex = false
         
+        let heigh = 170
+        
         
         
     }
